@@ -76,7 +76,7 @@ export default function pages() {
             </CardHeader>
             <CardContent>
               <Title>Saldo disponível</Title>
-              <Description>R$ 1.678.89,65</Description>
+              <Description>R$ 1.678.890,65</Description>
             </CardContent>
             <CardFooter>
               <Annotation>
