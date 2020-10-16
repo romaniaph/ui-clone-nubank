@@ -76,11 +76,11 @@ export default function pages() {
             </CardHeader>
             <CardContent>
               <Title>Saldo disponível</Title>
-              <Description>R$ 1.678.890,65</Description>
+              <Description>R$ 1.678.189,65</Description>
             </CardContent>
             <CardFooter>
               <Annotation>
-                Transferência de R$ 20,00 recebida hoje às 05:00h
+                Transferência de R$ 100,00 recebida hoje às 23:00h
             </Annotation>
             </CardFooter>
           </Card>

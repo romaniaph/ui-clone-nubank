@@ -13,6 +13,11 @@ export const Top = styled.View`
 
 export const Logo = styled.Image``;
 
+export const LogoPix = styled.Image`
+    height: 24px;
+    width: 24px;
+`;
+
 export const Title = styled.Text`
     font-size: 18px;
     color: #FFF;
